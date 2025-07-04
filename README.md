@@ -1,7 +1,9 @@
 # PRODIGY_INFOTECH_TASK_02
 TASK_2
-<img width="1680" alt="Screenshot 2025-07-04 at 10 48 14 AM" src="https://github.com/user-attachments/assets/2e32adaf-e50c-404d-a8b6-b8218d32af70" />
+
 Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
+<img width="1680" alt="Screenshot 2025-07-04 at 10 50 00 AM" src="https://github.com/user-attachments/assets/ae0dfbd3-4b7e-4cf0-9045-ae2acd37fa2d" />
+
 📌 Overview
 This project is part of my data science learning journey, where I performed data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal was to explore relationships between key features and gain insights into passenger survival trends.
 
